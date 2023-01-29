@@ -8,5 +8,6 @@ Essa ferramenta foi apresentada a mim pelo professor @Franklin Ferreira durante 
 Fiz o vídeo com o intuito de fixar conteudo e apresentar uma introdução a quem não conhece a ferramenta ainda.
 Comentários e sugestões serão bem vindos.
 
-linkedin.com/in/python4us
-https://youtu.be/ANZPtyp3Zgo
+
+### Clique no linke a baixo.
+https://www.youtube.com/watch?v=ANZPtyp3Zgo
