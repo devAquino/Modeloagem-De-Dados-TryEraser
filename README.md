@@ -8,6 +8,7 @@ Essa ferramenta foi apresentada a mim pelo professor @Franklin Ferreira durante 
 Fiz o vídeo com o intuito de fixar conteudo e apresentar uma introdução a quem não conhece a ferramenta ainda.
 Comentários e sugestões serão bem vindos.
 
+![Modelando data coding!](https://user-images.githubusercontent.com/8195518/215320694-98885a0e-2034-4bd7-afdb-d8d92d28646c.png)
 
 ### Clique no linke a baixo.
 https://www.youtube.com/watch?v=ANZPtyp3Zgo
