@@ -7,3 +7,6 @@ Existem diversas ferramentas para criarmos modelos de dados e diagramas no geral
 Essa ferramenta foi apresentada a mim pelo professor @Franklin Ferreira durante o treinamteno Ada + Suzando.
 Fiz o vídeo com o intuito de fixar conteudo e apresentar uma introdução a quem não conhece a ferramenta ainda.
 Comentários e sugestões serão bem vindos.
+
+linkedin.com/in/python4us
+https://youtu.be/ANZPtyp3Zgo
